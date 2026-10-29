@@ -28,9 +28,9 @@ A lung segmentation workflow developed in **3D Slicer 5.8.1** to extract lung re
 
 ## Repository Contents
 
-- `evidence/` — Screenshots documenting the workflow and results
-- `results/metrics.csv` — Final evaluation metrics
-- `docs/PROJECT_REPORT.md` — Methodology, interpretation, and limitations
+- Screenshots documenting the workflow and results
+- `metrics.csv` — Final evaluation metrics
+- `PROJECT_REPORT.md` — Methodology, interpretation, and limitations
 
 ## Limitations
 
