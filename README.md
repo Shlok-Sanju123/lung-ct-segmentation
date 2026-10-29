@@ -36,6 +36,3 @@ A lung segmentation workflow developed in **3D Slicer 5.8.1** to extract lung re
 
 This project was evaluated on a single scan. The CT volume, reference mask, and saved `.mrb` scene are not included in this repository. Reproducing the evaluation requires the corresponding input data and segmentation masks.
 
----
-
-*An exploration of medical image segmentation, image processing, and quantitative validation.*
