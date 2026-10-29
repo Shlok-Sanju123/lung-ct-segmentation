@@ -1,0 +1,4 @@
+metric,value,notes
+Dice coefficient,0.949,Final value transcribed from the Slicer Python console screenshot
+Precision,0.9887,Final value transcribed from the Slicer Python console screenshot
+Recall,0.9124,Final value transcribed from the Slicer Python console screenshot
